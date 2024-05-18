@@ -1,0 +1,12 @@
+{ "columns":13,
+ "image":"..\/..\/..\/Users\/CHEF SEC\/AppData\/Roaming\/Python\/Python311-32\/site-packages\/arcade\/resources\/images\/spritesheets\/tiles.png",
+ "imageheight":1536,
+ "imagewidth":1664,
+ "margin":0,
+ "name":"spritesheet",
+ "spacing":0,
+ "tilecount":156,
+ "tileheight":128,
+ "tilewidth":128,
+ "type":"tileset"
+}
