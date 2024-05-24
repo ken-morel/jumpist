@@ -39,7 +39,7 @@ class Player(Sprite):
         self.play_anim('idle')
         self.jump_state = 0
     def jump(self):
-        if self.jump_state < 3:
+        if self.jump_state < 3 and self.vec.vy >= 0:
             self.vec.vy = -500
             self.jump_state += 1
         
