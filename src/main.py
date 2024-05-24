@@ -78,7 +78,7 @@ def setup(app):
             for x in range(10)
         ]
     ]
-    
+    pac.rect.bottom = coords[0][1] - h * 2
     for coord in coords:
         Platform(app, coord)
     return True
