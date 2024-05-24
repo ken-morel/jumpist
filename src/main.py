@@ -126,7 +126,11 @@ def loop(app):
     else:
         app.vel.y*=0.5
     
-    
+    keys=pygame.key.get_pressed()
+    if keys[K_LEFT]:
+        joyi.vec.vx -= 1
+    if keys[K_RIGHT]:
+        joyi.vec.vx += 1
     cb = joyb.rect.center[0]
     ci = joyi.rect.center[0]
     cd = ci - cb
@@ -139,6 +143,7 @@ def loop(app):
         pac.play_anim('left')
     else:
         pac.play_anim('idle')
+
     pac.rect.clamp_ip(app.surface.get_rect())
     joyi.rect.clamp_ip(joyb.rect)
     joyi.rect.bottom += pac.vec.vy/30

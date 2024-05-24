@@ -144,7 +144,7 @@ class App:
     is_mouse_down = False
     x = y = 0
     _setup = _loop = _exit = _mdown = _mup = _mmove = lambda *_: True
-    def __init__(self, size=(1000, 1000), fps=20, clearcolor=Color.BLACK):
+    def __init__(self, size=(1000, 700), fps=20, clearcolor=Color.BLACK):
         pygame.init()
         App.app = self
         self.vel = Vector2()
