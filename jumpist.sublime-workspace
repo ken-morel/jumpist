@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"j",
+				"jump"
+			],
+			[
 				"re",
 				"re_icon"
 			],
@@ -367,7 +371,7 @@
 			"file": "src/main.py",
 			"settings":
 			{
-				"buffer_size": 3636,
+				"buffer_size": 3905,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
@@ -550,14 +554,886 @@
 					},
 					"AQAAAMQHAAAAAAAAxQcAAAAAAAAAAAAA",
 					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADEBwAAAAAAAMQHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					18,
+					3,
+					"left_delete",
+					null,
+					"AwAAAB8DAAAAAAAAHwMAAAAAAAABAAAAMx4DAAAAAAAAHgMAAAAAAAABAAAANx0DAAAAAAAAHQMAAAAAAAABAAAAMg",
+					"AQAAAAAAAAABAAAAIAMAAAAAAAAgAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "128"
+					},
+					"AwAAAB0DAAAAAAAAHgMAAAAAAAAAAAAAHgMAAAAAAAAfAwAAAAAAAAAAAAAfAwAAAAAAACADAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQMAAAAAAAAdAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAFsNAAAAAAAAXA0AAAAAAAAAAAAAXA0AAAAAAABkDQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWw0AAAAAAABbDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGANAAAAAAAAYA0AAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAAZA0AAAAAAABkDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"paste_and_indent",
+					null,
+					"AQAAAGANAAAAAAAALw4AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYA0AAAAAAABgDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"cut",
+					null,
+					"AQAAAGANAAAAAAAAYA0AAAAAAADPAAAAa2V5cz1weWdhbWUua2V5LmdldF9wcmVzc2VkKCkKICAgIGlmIGtleXNbS19MRUZUXToKICAgICAgICBsb2NhdGlvbi09MQogICAgICAgIGlmIGxvY2F0aW9uPT0tMToKICAgICAgICAgICAgbG9jYXRpb249MAogICAgaWYga2V5c1tLX1JJR0hUXToKICAgICAgICBsb2NhdGlvbis9MQogICAgICAgIGlmIGxvY2F0aW9uPT01OgogICAgICAgICAgICBsb2NhdGlvbj00",
+					"AQAAAAAAAAABAAAALw4AAAAAAABgDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"paste_and_indent",
+					null,
+					"AQAAAFYMAAAAAAAAJQ0AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVgwAAAAAAABWDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAACUNAAAAAAAAJg0AAAAAAAAAAAAAJg0AAAAAAAAyDQAAAAAAAAAAAAA4DgAAAAAAADgOAAAAAAAABAAAACAgICA",
+					"AQAAAAAAAAABAAAAJQ0AAAAAAAAlDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					2,
+					"left_delete",
+					null,
+					"AgAAAC4NAAAAAAAALg0AAAAAAAAEAAAAICAgICoNAAAAAAAAKg0AAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAAMg0AAAAAAAAyDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"left_delete",
+					null,
+					"AgAAAOMMAAAAAAAA4wwAAAAAAAAUAAAAICAgICAgICBsb2NhdGlvbis9MQoSDQAAAAAAABINAAAAAAAABAAAACAgICA",
+					"AQAAAAAAAAABAAAA4wwAAAAAAAD3DAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOMMAAAAAAAA4wwAAAAAAAAvAAAAICAgICAgICBpZiBsb2NhdGlvbj09NToKICAgICAgICAgICAgbG9jYXRpb249NAo",
+					"AQAAAAAAAAABAAAA4wwAAAAAAAASDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"reindent",
+					null,
+					"AQAAAOMMAAAAAAAA6wwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4wwAAAAAAADjDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": "joy"
+					},
+					"AwAAAOsMAAAAAAAA7AwAAAAAAAAAAAAA7AwAAAAAAADtDAAAAAAAAAAAAADtDAAAAAAAAO4MAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6wwAAAAAAADrDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					1,
+					"insert_completion",
+					{
+						"completion": "joyi",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "joyi"
+					},
+					"AgAAAOsMAAAAAAAA6wwAAAAAAAADAAAAam956wwAAAAAAADvDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7gwAAAAAAADuDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": ".re"
+					},
+					"AwAAAO8MAAAAAAAA8AwAAAAAAAAAAAAA8AwAAAAAAADxDAAAAAAAAAAAAADxDAAAAAAAAPIMAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7wwAAAAAAADvDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"insert_completion",
+					{
+						"completion": "rect",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "rect"
+					},
+					"AgAAAPAMAAAAAAAA8AwAAAAAAAACAAAAcmXwDAAAAAAAAPQMAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8gwAAAAAAADyDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": ".left"
+					},
+					"BQAAAPQMAAAAAAAA9QwAAAAAAAAAAAAA9QwAAAAAAAD2DAAAAAAAAAAAAAD2DAAAAAAAAPcMAAAAAAAAAAAAAPcMAAAAAAAA+AwAAAAAAAAAAAAA+AwAAAAAAAD5DAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9AwAAAAAAAD0DAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					73,
+					1,
+					"insert",
+					{
+						"characters": " +="
+					},
+					"AwAAAPkMAAAAAAAA+gwAAAAAAAAAAAAA+gwAAAAAAAD7DAAAAAAAAAAAAAD7DAAAAAAAAPwMAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+QwAAAAAAAD5DAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					1,
+					"insert",
+					{
+						"characters": " 10"
+					},
+					"AwAAAPwMAAAAAAAA/QwAAAAAAAAAAAAA/QwAAAAAAAD+DAAAAAAAAAAAAAD+DAAAAAAAAP8MAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/AwAAAAAAAD8DAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					84,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJEMAAAAAAAAkQwAAAAAAAA7AAAAbG9jYXRpb24tPTEKICAgICAgICBpZiBsb2NhdGlvbj09LTE6CiAgICAgICAgICAgIGxvY2F0aW9uPTA",
+					"AQAAAAAAAAABAAAAzAwAAAAAAACRDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					1,
+					"paste",
+					null,
+					"AQAAAJEMAAAAAAAApQwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkQwAAAAAAACRDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					96,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKAMAAAAAAAAoAwAAAAAAAABAAAAKw",
+					"AQAAAAAAAAABAAAAoQwAAAAAAAChDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"insert",
+					{
+						"characters": "-"
+					},
+					"AQAAAKAMAAAAAAAAoQwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoAwAAAAAAACgDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKMMAAAAAAAAowwAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAApAwAAAAAAACkDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					113,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AQAAAKMMAAAAAAAApAwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAowwAAAAAAACjDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					118,
+					1,
+					"left_delete",
+					null,
+					"AQAAANYMAAAAAAAA1gwAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAA1wwAAAAAAADXDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					119,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AQAAANYMAAAAAAAA1wwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1gwAAAAAAADWDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					1,
+					"left_delete",
+					null,
+					"AQAAANYMAAAAAAAA1gwAAAAAAAABAAAAMg",
+					"AQAAAAAAAAABAAAA1wwAAAAAAADXDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					125,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAANYMAAAAAAAA1wwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1gwAAAAAAADWDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					128,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKMMAAAAAAAAowwAAAAAAAABAAAAMg",
+					"AQAAAAAAAAABAAAApAwAAAAAAACkDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					129,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAKMMAAAAAAAApAwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAowwAAAAAAACjDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					175,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKMMAAAAAAAAowwAAAAAAAABAAAANQ",
+					"AQAAAAAAAAABAAAApAwAAAAAAACkDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					176,
+					1,
+					"insert",
+					{
+						"characters": "3"
+					},
+					"AQAAAKMMAAAAAAAApAwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAowwAAAAAAACjDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					178,
+					1,
+					"left_delete",
+					null,
+					"AQAAANYMAAAAAAAA1gwAAAAAAAABAAAANQ",
+					"AQAAAAAAAAABAAAA1wwAAAAAAADXDAAAAAAAAAAAAAAA4GtA"
+				],
+				[
+					179,
+					1,
+					"insert",
+					{
+						"characters": "3"
+					},
+					"AQAAANYMAAAAAAAA1wwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1gwAAAAAAADWDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					190,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAANgMAAAAAAAA2QwAAAAAAAAAAAAA2QwAAAAAAADhDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2AwAAAAAAADYDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					191,
+					1,
+					"left_delete",
+					null,
+					"AQAAAN0MAAAAAAAA3QwAAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAA4QwAAAAAAADhDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					192,
+					1,
+					"insert",
+					{
+						"characters": "if"
+					},
+					"AgAAAN0MAAAAAAAA3gwAAAAAAAAAAAAA3gwAAAAAAADfDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3QwAAAAAAADdDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					193,
+					1,
+					"insert",
+					{
+						"characters": " k"
+					},
+					"AgAAAN8MAAAAAAAA4AwAAAAAAAAAAAAA4AwAAAAAAADhDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3wwAAAAAAADfDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					194,
+					1,
+					"insert_completion",
+					{
+						"completion": "keys",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "keys"
+					},
+					"AgAAAOAMAAAAAAAA4AwAAAAAAAABAAAAa+AMAAAAAAAA5AwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4QwAAAAAAADhDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					195,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAAOQMAAAAAAAA5gwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5AwAAAAAAADkDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					196,
+					1,
+					"insert",
+					{
+						"characters": "K_U"
+					},
+					"AwAAAOUMAAAAAAAA5gwAAAAAAAAAAAAA5gwAAAAAAADnDAAAAAAAAAAAAADnDAAAAAAAAOgMAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5QwAAAAAAADlDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					197,
+					1,
+					"insert",
+					{
+						"characters": "P"
+					},
+					"AQAAAOgMAAAAAAAA6QwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6AwAAAAAAADoDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					199,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAOoMAAAAAAAA6wwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6gwAAAAAAADqDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					200,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAAOsMAAAAAAAA7AwAAAAAAAAAAAAA7AwAAAAAAADwDAAAAAAAAAAAAADwDAAAAAAAAPQMAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6wwAAAAAAADrDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					201,
+					1,
+					"insert",
+					{
+						"characters": "pac"
+					},
+					"AwAAAPQMAAAAAAAA9QwAAAAAAAAAAAAA9QwAAAAAAAD2DAAAAAAAAAAAAAD2DAAAAAAAAPcMAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9AwAAAAAAAD0DAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					202,
+					1,
+					"insert",
+					{
+						"characters": ".j"
+					},
+					"AgAAAPcMAAAAAAAA+AwAAAAAAAAAAAAA+AwAAAAAAAD5DAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9wwAAAAAAAD3DAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					204,
+					1,
+					"insert_completion",
+					{
+						"completion": "jump",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "jump"
+					},
+					"AgAAAPgMAAAAAAAA+AwAAAAAAAABAAAAavgMAAAAAAAA/AwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+QwAAAAAAAD5DAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					205,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAPwMAAAAAAAA/gwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/AwAAAAAAAD8DAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					216,
+					1,
+					"insert",
+					{
+						"characters": " and"
+					},
+					"BAAAAHgEAAAAAAAAeQQAAAAAAAAAAAAAeQQAAAAAAAB6BAAAAAAAAAAAAAB6BAAAAAAAAHsEAAAAAAAAAAAAAHsEAAAAAAAAfAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeAQAAAAAAAB4BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					217,
+					1,
+					"insert",
+					{
+						"characters": " self"
+					},
+					"BQAAAHwEAAAAAAAAfQQAAAAAAAAAAAAAfQQAAAAAAAB+BAAAAAAAAAAAAAB+BAAAAAAAAH8EAAAAAAAAAAAAAH8EAAAAAAAAgAQAAAAAAAAAAAAAgAQAAAAAAACBBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfAQAAAAAAAB8BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					218,
+					1,
+					"insert",
+					{
+						"characters": ".vec"
+					},
+					"BAAAAIEEAAAAAAAAggQAAAAAAAAAAAAAggQAAAAAAACDBAAAAAAAAAAAAACDBAAAAAAAAIQEAAAAAAAAAAAAAIQEAAAAAAAAhQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgQQAAAAAAACBBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					219,
+					1,
+					"insert",
+					{
+						"characters": ".vy"
+					},
+					"AwAAAIUEAAAAAAAAhgQAAAAAAAAAAAAAhgQAAAAAAACHBAAAAAAAAAAAAACHBAAAAAAAAIgEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhQQAAAAAAACFBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					220,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAIgEAAAAAAAAiQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiAQAAAAAAACIBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					231,
+					1,
+					"paste",
+					null,
+					"AQAAAIkEAAAAAAAAigQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiQQAAAAAAACJBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					232,
+					1,
+					"insert",
+					{
+						"characters": "=0"
+					},
+					"AgAAAIoEAAAAAAAAiwQAAAAAAAAAAAAAiwQAAAAAAACMBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAigQAAAAAAACKBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					234,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAIsEAAAAAAAAjAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiwQAAAAAAACLBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					274,
+					6,
+					"left_delete",
+					null,
+					"BgAAAAUBAAAAAAAABQEAAAAAAAABAAAAbQQBAAAAAAAABAEAAAAAAAABAAAAbwMBAAAAAAAAAwEAAAAAAAABAAAAdAIBAAAAAAAAAgEAAAAAAAABAAAAdAEBAAAAAAAAAQEAAAAAAAABAAAAbwABAAAAAAAAAAEAAAAAAAABAAAAYg",
+					"AQAAAAAAAAABAAAABgEAAAAAAAAGAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					275,
+					1,
+					"insert",
+					{
+						"characters": "top"
+					},
+					"AwAAAAABAAAAAAAAAQEAAAAAAAAAAAAAAQEAAAAAAAACAQAAAAAAAAAAAAACAQAAAAAAAAMBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					280,
+					3,
+					"left_delete",
+					null,
+					"AwAAAAIBAAAAAAAAAgEAAAAAAAABAAAAcAEBAAAAAAAAAQEAAAAAAAABAAAAbwABAAAAAAAAAAEAAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAAAwEAAAAAAAADAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					281,
+					1,
+					"insert",
+					{
+						"characters": "bottom"
+					},
+					"BgAAAAABAAAAAAAAAQEAAAAAAAAAAAAAAQEAAAAAAAACAQAAAAAAAAAAAAACAQAAAAAAAAMBAAAAAAAAAAAAAAMBAAAAAAAABAEAAAAAAAAAAAAABAEAAAAAAAAFAQAAAAAAAAAAAAAFAQAAAAAAAAYBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					293,
+					1,
+					"insert",
+					{
+						"characters": "try"
+					},
+					"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					294,
+					3,
+					"left_delete",
+					null,
+					"AwAAAAIAAAAAAAAAAgAAAAAAAAABAAAAeQEAAAAAAAAAAQAAAAAAAAABAAAAcgAAAAAAAAAAAAAAAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					296,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					298,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAACgAAAAAAAAAKQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					300,
+					1,
+					"insert",
+					{
+						"characters": "\ntry"
+					},
+					"BAAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAACsAAAAAAAAALAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					301,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAACwAAAAAAAAALQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALAAAAAAAAAAsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					302,
+					1,
+					"insert",
+					{
+						"characters": "\nimport"
+					},
+					"CAAAAC0AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADMAAAAAAAAAAAAAADMAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADYAAAAAAAAAAAAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					303,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADgAAAAAAAAAOQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					304,
+					1,
+					"insert",
+					{
+						"characters": "pyi_"
+					},
+					"BAAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					305,
+					1,
+					"insert",
+					{
+						"characters": "splash"
+					},
+					"BgAAAD0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQQAAAAAAAAAAAAAAQQAAAAAAAABCAAAAAAAAAAAAAABCAAAAAAAAAEMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					306,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAEMAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					307,
+					3,
+					"left_delete",
+					null,
+					"AwAAAEQAAAAAAAAARAAAAAAAAAAEAAAAICAgIEMAAAAAAAAAQwAAAAAAAAABAAAACkIAAAAAAAAAQgAAAAAAAAABAAAAaA",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					308,
+					1,
+					"insert",
+					{
+						"characters": "h"
+					},
+					"AQAAAEIAAAAAAAAAQwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgAAAAAAAABCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					309,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"BQAAAEMAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEkAAAAAAAAAAAAAAEkAAAAAAAAATQAAAAAAAAAAAAAARAAAAAAAAABEAAAAAAAAAAQAAAAgICAg",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					310,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEUAAAAAAAAARQAAAAAAAAAEAAAAICAgIEQAAAAAAAAARAAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					311,
+					1,
+					"reindent",
+					null,
+					"AQAAAEQAAAAAAAAASAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAAAAAAAAABEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					312,
+					1,
+					"insert",
+					{
+						"characters": "pyi"
+					},
+					"AwAAAEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABKAAAAAAAAAAAAAABKAAAAAAAAAEsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					313,
+					1,
+					"insert_completion",
+					{
+						"completion": "pyi_splash",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "pyi_splash"
+					},
+					"AgAAAEgAAAAAAAAASAAAAAAAAAADAAAAcHlpSAAAAAAAAABSAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASwAAAAAAAABLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					314,
+					1,
+					"insert",
+					{
+						"characters": ".close"
+					},
+					"BgAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFUAAAAAAAAAAAAAAFUAAAAAAAAAVgAAAAAAAAAAAAAAVgAAAAAAAABXAAAAAAAAAAAAAABXAAAAAAAAAFgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgAAAAAAAABSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					315,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAFgAAAAAAAAAWgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAAAAAAAAABYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					318,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABfAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					319,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFsAAAAAAAAAWwAAAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAAXwAAAAAAAABfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					320,
+					1,
+					"insert",
+					{
+						"characters": "ex"
+					},
+					"AgAAAFsAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABdAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWwAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					321,
+					1,
+					"insert_completion",
+					{
+						"completion": "except",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "except"
+					},
+					"AgAAAFsAAAAAAAAAWwAAAAAAAAACAAAAZXhbAAAAAAAAAGEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXQAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					322,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAGEAAAAAAAAAYgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					323,
+					1,
+					"insert",
+					{
+						"characters": "\npass"
+					},
+					"BgAAAGIAAAAAAAAAYwAAAAAAAAAAAAAAYwAAAAAAAABnAAAAAAAAAAAAAABnAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAaQAAAAAAAAAAAAAAaQAAAAAAAABqAAAAAAAAAAAAAABqAAAAAAAAAGsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					326,
+					1,
+					"insert",
+					{
+						"characters": " I"
+					},
+					"AgAAAGEAAAAAAAAAYgAAAAAAAAAAAAAAYgAAAAAAAABjAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					327,
+					1,
+					"insert_completion",
+					{
+						"completion": "ImportError",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "ImportError"
+					},
+					"AgAAAGIAAAAAAAAAYgAAAAAAAAABAAAASWIAAAAAAAAAbQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYwAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
 				]
 			]
+		},
+		{
+			"contents": "21640 INFO: Caching module dependency graph...                                                                       \n21922 INFO: Looking for Python shared library...                                                                     \n22031 INFO: Using Python shared library: C:\\Program Files (x86)\\Python311-32\\python311.dll                           \n22031 INFO: Analyzing C:\\jumpist\\src\\main.py                                                                         \n22078 INFO: Loading module hook 'hook-pygame.py' from 'C:\\\\Users\\\\CHEF SEC\\\\AppData\\\\Roaming\\\\Python\\\\Python311-32\\\\s​‌​\nite-packages\\\\pygame\\\\__pyinstaller'...                                                                              \npygame 2.5.2 (SDL 2.28.3, Python 3.11.9)                                                                             \nHello from the pygame community. https://www.pygame.org/contribute.html                                              \n23718 INFO: Loading module hook 'hook-numpy.py' from 'C:\\\\Users\\\\CHEF SEC\\\\AppData\\\\Roaming\\\\Python\\\\Python311-32\\\\si​‌​\nte-packages\\\\numpy\\\\_pyinstaller'...                                                                                 \n27109 INFO: Loading module hook 'hook-difflib.py' from 'C:\\\\Users\\\\CHEF SEC\\\\AppData\\\\Roaming\\\\Python\\\\Python311-32\\\\​‌​\nsite-packages\\\\PyInstaller\\\\hooks'...                                                                                \n28219 INFO: Loading module hook 'hook-multiprocessing.util.py' from 'C:\\\\Users\\\\CHEF SEC\\\\AppData\\\\Roaming\\\\Python\\\\P​‌​\nython311-32\\\\site-packages\\\\PyInstaller\\\\hooks'...                                                                   \n29031 INFO: Loading module hook 'hook-xml.py' from 'C:\\\\Users\\\\CHEF SEC\\\\AppData\\\\Roaming\\\\Python\\\\Python311-32\\\\site​‌​\n-packages\\\\PyInstaller\\\\hooks'...                                                                                    \n32359 INFO: Loading module hook 'hook-platform.py' from 'C:\\\\Users\\\\CHEF SEC\\\\AppData\\\\Roaming\\\\Python\\\\Python311-32\\​‌​\n\\site-packages\\\\PyInstaller\\\\hooks'...                                                                               \n32484 INFO: Loading module hook 'hook-sysconfig.py' from 'C:\\\\Users\\\\CHEF SEC\\\\AppData\\\\Roaming\\\\Python\\\\Python311-32​‌​\n\\\\site-packages\\\\PyInstaller\\\\hooks'...                                                                              \n40578 INFO: Loading module hook 'hook-pkg_resources.py' from 'C:\\\\Users\\\\CHEF SEC\\\\AppData\\\\Roaming\\\\Python\\\\Python31​‌​\n1-32\\\\site-packages\\\\PyInstaller\\\\hooks'...                                                                          \n43562 INFO: Processing pre-find module path hook pyi_splash from 'C:\\\\Users\\\\CHEF SEC\\\\AppData\\\\Roaming\\\\Python\\\\Pyth​‌​\non311-32\\\\site-packages\\\\PyInstaller\\\\hooks\\\\pre_find_module_path\\\\hook-pyi_splash.py'.                              \n43578 INFO: Adding pyi_splash module to application dependencies.                                                    \n43578 INFO: Processing module hooks...                                                                               \n43672 INFO: Processing pre-safe import module hook win32com from 'C:\\\\Users\\\\CHEF SEC\\\\AppData\\\\Roaming\\\\Python\\\\Pyth​‌​\non311-32\\\\site-packages\\\\_pyinstaller_hooks_contrib\\\\hooks\\\\pre_safe_import_module\\\\hook-win32com.py'.               \n46672 INFO: Loading module hook 'hook-jinja2.py' from 'C:\\\\Users\\\\CHEF SEC\\\\AppData\\\\Roaming\\\\Python\\\\Python311-32\\\\s​‌​\nite-packages\\\\_pyinstaller_hooks_contrib\\\\hooks\\\\stdhooks'...                                                        \n49344 INFO: Loading module hook 'hook-packaging.py' from 'C:\\\\Users\\\\CHEF SEC\\\\AppData\\\\Roaming\\\\Python\\\\Python311-32​‌​\n\\\\site-packages\\\\PyInstaller\\\\hooks'...                                                                              \n50125 INFO: Performing binary vs. data reclassification (28 entries)                                                 \n51891 INFO: Looking for ctypes DLLs                                                                                  \n52031 INFO: Analyzing run-time hooks ...                                                                             \n52031 INFO: Including run-time hook 'C:\\\\Users\\\\CHEF SEC\\\\AppData\\\\Roaming\\\\Python\\\\Python311-32\\\\site-packages\\\\PyIn​‌​\nstaller\\\\hooks\\\\rthooks\\\\pyi_rth_inspect.py'                                                                         \n52047 INFO: Including run-time hook 'C:\\\\Users\\\\CHEF SEC\\\\AppData\\\\Roaming\\\\Python\\\\Python311-32\\\\site-packages\\\\PyIn​‌​\nstaller\\\\hooks\\\\rthooks\\\\pyi_rth_pkgutil.py'                                                                         \n52047 INFO: Processing pre-find module path hook _pyi_rth_utils from 'C:\\\\Users\\\\CHEF SEC\\\\AppData\\\\Roaming\\\\Python\\\\​‌​\nPython311-32\\\\site-packages\\\\PyInstaller\\\\hooks\\\\pre_find_module_path\\\\hook-_pyi_rth_utils.py'.                      \n52047 INFO: Loading module hook 'hook-_pyi_rth_utils.py' from 'C:\\\\Users\\\\CHEF SEC\\\\AppData\\\\Roaming\\\\Python\\\\Python3​‌​\n11-32\\\\site-packages\\\\PyInstaller\\\\hooks'...                                                                         \n52047 INFO: Including run-time hook 'C:\\\\Users\\\\CHEF SEC\\\\AppData\\\\Roaming\\\\Python\\\\Python311-32\\\\site-packages\\\\PyIn​‌​\nstaller\\\\hooks\\\\rthooks\\\\pyi_rth_multiprocessing.py'                                                                 \n52062 INFO: Including run-time hook 'C:\\\\Users\\\\CHEF SEC\\\\AppData\\\\Roaming\\\\Python\\\\Python311-32\\\\site-packages\\\\PyIn​‌​\nstaller\\\\hooks\\\\rthooks\\\\pyi_rth_pkgres.py'                                                                          \n52094 INFO: Looking for dynamic libraries                                                                            \npygame 2.5.2 (SDL 2.28.3, Python 3.11.9)                                                                             \nHello from the pygame community. https://www.pygame.org/contribute.html                                              \nC:\\Users\\CHEF SEC\\AppData\\Roaming\\Python\\Python311-32\\site-packages\\PyInstaller\\building\\build_main.py:199: UserWarni​‌​\nng: The numpy.array_api submodule is still experimental. See NEP 47.                                                 \n  __import__(package)                                                                                                \n54203 INFO: Extra DLL search directories (AddDllDirectory): ['C:\\\\Users\\\\CHEF SEC\\\\AppData\\\\Roaming\\\\Python\\\\Python31​‌​\n1-32\\\\site-packages\\\\pygame']                                                                                        \n54203 INFO: Extra DLL search directories (PATH): []                                                                  \n57016 INFO: Warnings written to C:\\jumpist\\build\\jumpist\\warn-jumpist.txt                                            \n57188 INFO: Graph cross-reference written to C:\\jumpist\\build\\jumpist\\xref-jumpist.html                              \n57266 INFO: checking PYZ                                                                                             \n57266 INFO: Building PYZ because PYZ-00.toc is non existent                                                          \n57266 INFO: Building PYZ (ZlibArchive) C:\\jumpist\\build\\jumpist\\PYZ-00.pyz                                           \n59906 INFO: Building PYZ (ZlibArchive) C:\\jumpist\\build\\jumpist\\PYZ-00.pyz completed successfully.                   \n59984 INFO: Collect tcl/tk binaries for the splash screen                                                            \n59984 INFO: checking Tree                                                                                            \n59984 INFO: Building Tree because Tree-00.toc is non existent                                                        \n59984 INFO: Building Tree Tree-00.toc                                                                                \n60609 INFO: checking Tree                                                                                            \n60609 INFO: Building Tree because Tree-01.toc is non existent                                                        \n60609 INFO: Building Tree Tree-01.toc                                                                                \n60703 INFO: checking Tree                                                                                            \n60703 INFO: Building Tree because Tree-02.toc is non existent                                                        \n60703 INFO: Building Tree Tree-02.toc                                                                                \n61063 INFO: checking Splash                                                                                          \n61063 INFO: Building Splash because Splash-00.toc is non existent                                                    \n61063 INFO: Building Splash C:\\jumpist\\build\\jumpist\\Splash-00.res                                                   \n61125 INFO: checking PKG                                                                                             \n61125 INFO: Building PKG because PKG-00.toc is non existent                                                          \n61125 INFO: Building PKG (CArchive) jumpist.pkg                                                                      \n61188 INFO: Building PKG (CArchive) jumpist.pkg completed successfully.                                              \n61188 INFO: Bootloader C:\\Users\\CHEF SEC\\AppData\\Roaming\\Python\\Python311-32\\site-packages\\PyInstaller\\bootloader\\Win​‌​\ndows-32bit-intel\\run.exe                                                                                             \n61188 INFO: checking EXE                                                                                             \n61188 INFO: Building EXE because EXE-00.toc is non existent                                                          \n61188 INFO: Building EXE from EXE-00.toc                                                                             \n61188 INFO: Copying bootloader EXE to C:\\jumpist\\build\\jumpist\\jumpist.exe                                           \n62516 INFO: Copying icon to EXE                                                                                      \n63109 INFO: Copying 0 resources to EXE                                                                               \n63109 INFO: Embedding manifest in EXE                                                                                \n63188 INFO: Appending PKG archive to EXE                                                                             \n63203 INFO: Fixing EXE headers                                                                                       \n64359 INFO: Building EXE from EXE-00.toc completed successfully.                                                     \n64375 INFO: checking COLLECT                                                                                         \n64375 INFO: Building COLLECT because COLLECT-00.toc is non existent                                                  \n64375 INFO: Building COLLECT COLLECT-00.toc                                                                          \n66078 INFO: Building COLLECT COLLECT-00.toc completed successfully.                                                  \nPS C:\\jumpist> ",
+			"settings":
+			{
+				"buffer_size": 11288,
+				"line_ending": "Windows",
+				"name": "Windows PowerShell",
+				"scratch": true
+			}
 		},
 		{
 			"file": "src/easy_pygame.py",
 			"settings":
 			{
-				"buffer_size": 6775,
+				"buffer_size": 6774,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
@@ -606,6 +1482,24 @@
 					null,
 					"AQAAAHYaAAAAAAAAdxoAAAAAAAAAAAAA",
 					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADXDwAAAAAAANcPAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					5,
+					2,
+					"left_delete",
+					null,
+					"AgAAANYPAAAAAAAA1g8AAAAAAAABAAAAMNUPAAAAAAAA1Q8AAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAA1w8AAAAAAADXDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "7"
+					},
+					"AQAAANUPAAAAAAAA1g8AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1Q8AAAAAAADVDwAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		}
@@ -927,10 +1821,16 @@
 	"expanded_folders":
 	[
 		"/C/jumpist",
+		"/C/jumpist/build",
+		"/C/jumpist/dist",
+		"/C/jumpist/dist/jumpist",
 		"/C/jumpist/src"
 	],
 	"file_history":
 	[
+		"/C/jumpist/build/jumpist/Splash-00_script.tcl",
+		"/C/Sbook/chatty/templates/chatty-main.django",
+		"/C/Sbook/note/templates/note-index.django",
 		"/C/Sbook/quizz/accounts.py",
 		"/C/Sbook/sbook/templatetags/markdown.py",
 		"/C/Sbook/quizz/urls.py",
@@ -1063,19 +1963,18 @@
 				{
 					"buffer": 0,
 					"file": "src/main.py",
-					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3636,
+						"buffer_size": 3905,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1989,
-								1989
+								119,
+								119
 							]
 						],
 						"settings":
@@ -1087,7 +1986,103 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1060.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11288,
+								11288
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"rainbow_checked": true,
+							"result_base_dir": "C:\\jumpist\\src",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								[
+									50,
+									"dotted"
+								],
+								[
+									79,
+									"solid",
+									2
+								],
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 353,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"powershell.exe"
+								],
+								"cwd": "C:\\jumpist\\src",
+								"default_title": "PowerShell",
+								"env":
+								{
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": "Terminus",
+								"reactivable": true,
+								"show_in_panel": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.reactivable": true,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 1242.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1242.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1095,20 +2090,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 2,
 					"file": "src/easy_pygame.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6775,
+						"buffer_size": 6774,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4055,
-								4055
+								4054,
+								4054
 							]
 						],
 						"settings":
@@ -1122,7 +2117,7 @@
 						"translation.y": 2558.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"stack_multiselect": false,
 					"type": "text"
 				}
