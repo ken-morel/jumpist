@@ -27,7 +27,7 @@ class Platform(Rectangle):
 class Player(Sprite):
     def __init__(self):
         super().__init__(app, 'pac')
-        self.rect.width = self.rect.height = 273
+        self.rect.width = self.rect.height = 128
         self.vec.ay = 1000
         self.rect.center = (app.width/2, 600)
         

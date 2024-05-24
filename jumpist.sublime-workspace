@@ -1,0 +1,1250 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"re_icon"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"q",
+				"quizzes"
+			],
+			[
+				"m",
+				"markdown"
+			],
+			[
+				"ma",
+				"markdown"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"P",
+				"Path"
+			],
+			[
+				"qui",
+				"quizz"
+			],
+			[
+				"H",
+				"HttpResponseNotFound"
+			],
+			[
+				"Qu",
+				"Quizz"
+			],
+			[
+				"s",
+				"$scope"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"h3",
+				"h3"
+			],
+			[
+				"h2",
+				"h2"
+			],
+			[
+				"I",
+				"ImageField"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"Ht",
+				"HttpResponse"
+			],
+			[
+				"pr",
+				"profile_asBytes"
+			],
+			[
+				"df",
+				"span#df"
+			],
+			[
+				"cl",
+				"ng-class"
+			],
+			[
+				"F",
+				"False"
+			],
+			[
+				"__",
+				"__str__"
+			],
+			[
+				"from",
+				"from_dict"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"Ch",
+				"CharField"
+			],
+			[
+				"sb",
+				"sbookAccount"
+			],
+			[
+				"e",
+				"encoder="
+			],
+			[
+				"J",
+				"JSONEncoder"
+			],
+			[
+				"cla",
+				"classroom"
+			],
+			[
+				"C",
+				"CASCADE"
+			],
+			[
+				"Fo",
+				"mforeign\tforeignkey"
+			],
+			[
+				"sboo",
+				"sbookAccount"
+			],
+			[
+				"btn",
+				"btnOffset"
+			],
+			[
+				"consol",
+				"console_log"
+			],
+			[
+				"setTime",
+				"setTimeout"
+			],
+			[
+				"fill",
+				"fillRect"
+			],
+			[
+				"sc",
+				"$scope"
+			],
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"note",
+				"noteindex"
+			],
+			[
+				"fun",
+				"Function"
+			],
+			[
+				"ima",
+				"image_path"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"ng-",
+				"ng-repeat"
+			],
+			[
+				"sb-",
+				"sb-star-rating"
+			],
+			[
+				"ng-re",
+				"ng-repeat"
+			],
+			[
+				"tem",
+				"temp_dir"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"remove",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"background-po",
+				"background-position-x"
+			],
+			[
+				"var",
+				"var\t<var>"
+			],
+			[
+				"marginT",
+				"marginTop"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bla",
+				"blocktrans\tDjango template blocktrans"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"css",
+				"css\t.css() - multiple"
+			],
+			[
+				"lo",
+				"lorem\tDjango template lorem template text"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"html",
+				"html\thtml"
+			],
+			[
+				"widt",
+				"marginwidth"
+			],
+			[
+				"ent",
+				"entries"
+			],
+			[
+				"toggle",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"not",
+				"updateNoteUploadProgess"
+			],
+			[
+				"a",
+				"jQuery.ajax\tjQuery.ajax"
+			],
+			[
+				"upl",
+				"uploadNoteForm"
+			],
+			[
+				"up",
+				"uploadedNoteSubmited"
+			],
+			[
+				"inputs",
+				"inputs\tinput - submit"
+			],
+			[
+				"input",
+				"inputf\tinput - file"
+			],
+			[
+				"bg-a",
+				"bg-antimony10"
+			],
+			[
+				"funct",
+				"description-Function"
+			],
+			[
+				"fa-",
+				"fa-2xl"
+			],
+			[
+				"w3",
+				"w3-margin"
+			],
+			[
+				"bd-",
+				"bd-antimony"
+			],
+			[
+				"bg-",
+				"bg-antimony10"
+			],
+			[
+				"w3-",
+				"w3-round"
+			],
+			[
+				"sli",
+				"slideUp\t.slideUp()"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect"
+			],
+			[
+				"p",
+				"project_path"
+			],
+			[
+				"ra",
+				"random_profile"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.py",
+			"settings":
+			{
+				"buffer_size": 3636,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "pac."
+					},
+					"BAAAAKAHAAAAAAAAoQcAAAAAAAAAAAAAoQcAAAAAAACiBwAAAAAAAAAAAACiBwAAAAAAAKMHAAAAAAAAAAAAAKMHAAAAAAAApAcAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACgBwAAAAAAAKAHAAAAAAAAAAAAAACAREA"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": "rect."
+					},
+					"BQAAAKQHAAAAAAAApQcAAAAAAAAAAAAApQcAAAAAAACmBwAAAAAAAAAAAACmBwAAAAAAAKcHAAAAAAAAAAAAAKcHAAAAAAAAqAcAAAAAAAAAAAAAqAcAAAAAAACpBwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACkBwAAAAAAAKQHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": "bo"
+					},
+					"AgAAAKkHAAAAAAAAqgcAAAAAAAAAAAAAqgcAAAAAAACrBwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACpBwAAAAAAAKkHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					61,
+					1,
+					"insert_completion",
+					{
+						"completion": "bottom",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "bottom"
+					},
+					"AgAAAKkHAAAAAAAAqQcAAAAAAAACAAAAYm+pBwAAAAAAAK8HAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACrBwAAAAAAAKsHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					62,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAAK8HAAAAAAAAsAcAAAAAAAAAAAAAsAcAAAAAAACxBwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACvBwAAAAAAAK8HAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": " coo"
+					},
+					"BAAAALEHAAAAAAAAsgcAAAAAAAAAAAAAsgcAAAAAAACzBwAAAAAAAAAAAACzBwAAAAAAALQHAAAAAAAAAAAAALQHAAAAAAAAtQcAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACxBwAAAAAAALEHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					64,
+					1,
+					"insert_completion",
+					{
+						"completion": "coords",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "coords"
+					},
+					"AgAAALIHAAAAAAAAsgcAAAAAAAADAAAAY29vsgcAAAAAAAC4BwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC1BwAAAAAAALUHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					65,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAALgHAAAAAAAAugcAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC4BwAAAAAAALgHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AQAAALkHAAAAAAAAugcAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC5BwAAAAAAALkHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					68,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAALsHAAAAAAAAvQcAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC7BwAAAAAAALsHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					69,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAALwHAAAAAAAAvQcAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC8BwAAAAAAALwHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": "-h"
+					},
+					"AgAAAL4HAAAAAAAAvwcAAAAAAAAAAAAAvwcAAAAAAADABwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC+BwAAAAAAAL4HAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					75,
+					1,
+					"insert",
+					{
+						"characters": "*2"
+					},
+					"AgAAAMAHAAAAAAAAwQcAAAAAAAAAAAAAwQcAAAAAAADCBwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADABwAAAAAAAMAHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					82,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAL4HAAAAAAAAvwcAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC+BwAAAAAAAL4HAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					84,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAMAHAAAAAAAAwQcAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADABwAAAAAAAMAHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					86,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAMIHAAAAAAAAwwcAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADCBwAAAAAAAMIHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					88,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAMQHAAAAAAAAxQcAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADEBwAAAAAAAMQHAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "src/easy_pygame.py",
+			"settings":
+			{
+				"buffer_size": 6775,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					20,
+					1,
+					"left_delete",
+					null,
+					"AQAAAM8PAAAAAAAAzw8AAAAAAAABAAAANQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADQDwAAAAAAANAPAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "10"
+					},
+					"AgAAAM8PAAAAAAAA0A8AAAAAAAAAAAAA0A8AAAAAAADRDwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADPDwAAAAAAAM8PAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					23,
+					1,
+					"left_delete",
+					null,
+					"AQAAANUPAAAAAAAA1Q8AAAAAAAABAAAANQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADWDwAAAAAAANYPAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "10"
+					},
+					"AgAAANUPAAAAAAAA1g8AAAAAAAAAAAAA1g8AAAAAAADXDwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADVDwAAAAAAANUPAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					26,
+					1,
+					"ensure_newline_at_eof",
+					null,
+					"AQAAAHYaAAAAAAAAdxoAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADXDwAAAAAAANcPAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "Anaconda Python Builder",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				],
+				[
+					"Packages/User/sass.sublime-build",
+					""
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				],
+				[
+					"Packages/User/sass.sublime-build",
+					""
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				],
+				[
+					"Packages/User/Django.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Django.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				],
+				[
+					"Packages/User/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Django.sublime-build",
+					"pylint"
+				]
+			],
+			[
+				"Packages/User/Django.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Django.sublime-build",
+					"pylint"
+				]
+			],
+			[
+				"Packages/User/Django.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Sbook",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				]
+			],
+			[
+				"Packages/subliminal/Django.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Sbook",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					""
+				],
+				[
+					"Packages/subliminal/Django.sublime-build",
+					"pylint"
+				],
+				[
+					"Packages/User/sass.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/sass.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: D",
+				"Package Control: Disable Package"
+			],
+			[
+				"open",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"Package Control: Add",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/jumpist",
+		"/C/jumpist/src"
+	],
+	"file_history":
+	[
+		"/C/Sbook/quizz/accounts.py",
+		"/C/Sbook/sbook/templatetags/markdown.py",
+		"/C/Sbook/quizz/urls.py",
+		"/C/Sbook/quizz/views.py",
+		"/C/Sbook/quizz/templates/quizz-preview.django",
+		"/C/Sbook/staticfiles/styles/quizz-styles.sass",
+		"/C/Sbook/staticfiles/styles/w3.css",
+		"/C/Sbook/quizz/templates/quizz-dashboard.django",
+		"/C/Sbook/quizz/templates/quizz-main.django",
+		"/C/Sbook/sbook/templatetags/__init__.py",
+		"/C/Sbook/requirements.txt",
+		"/C/Sbook/sbook/models.py",
+		"/C/Sbook/classroom/models.py",
+		"/C/Sbook/note/models.py",
+		"/C/Sbook/quizz/models.py",
+		"/C/pyoload/src/del.py",
+		"/C/pyoload/src/pyoload/__init__.py",
+		"/C/Sbook/staticfiles/styles/styles.sass",
+		"/C/Sbook/staticfiles/styles/styles.css",
+		"/C/Sbook/sbook/accounts.py",
+		"/C/Sbook/note/urls.py",
+		"/C/Sbook/sbook/urls.py",
+		"/C/Sbook/staticfiles/styles/quizz-styles.css",
+		"/C/Sbook/sbook/templates/dashboard.django",
+		"/C/Sbook/sbook/views.py",
+		"/C/Sbook/staticfiles/styles/make.bat",
+		"/C/sublime_text/Data/Packages/User/sass.sublime-build",
+		"/C/Sbook/sbook/settings.py",
+		"/C/Sbook/sbook/templates/signup.django",
+		"/C/Sbook/sbook/templates/main.django",
+		"/C/Sbook/sbook/templates/signin.django",
+		"/C/Sbook/quizz/forms.py",
+		"/C/Sbook/note/templates/note-main.django",
+		"/C/Sbook/sbook/templates/google-analytics.django",
+		"/C/Sbook/note/views.py",
+		"/C/Sbook/test-question.del.json",
+		"/C/Sbook/note/accounts.py",
+		"/C/Sbook/quizz/admin.py",
+		"/C/Sbook/note/admin.py",
+		"/C/Sbook/sbook/templates/index.django",
+		"/C/Sbook/quizz/apps.py",
+		"/C/Sbook/sbook/admin.py",
+		"/C/Sbook/classroom/admin.py",
+		"/C/Sbook/sbook/wsgi.py",
+		"/C/Sbook/profile_images.py",
+		"/C/Sbook/note/templates/note-browse.django",
+		"/C/Sbook/sbook/templates/fonts.django",
+		"/C/Sbook/staticfiles/fonts/Open_Sans/README.txt",
+		"/C/Sbook/staticfiles/styles/styles.css.map",
+		"/C/Sbook/note/templates/note-dashboard.django",
+		"/C/Sbook/staticfiles/scripts/response.js",
+		"/C/Sbook/staticfiles/styles/styles.scss",
+		"/C/Sbook/note/templates/note-upload.django",
+		"/C/Sbook/notes/1/index.html",
+		"/C/sublime_text/Data/Packages/Browser Refresh/Default (Windows).sublime-keymap",
+		"/C/sublime_text/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Sbook/note/source/meta.yaml",
+		"/C/Sbook/note/test-engine.py",
+		"/C/Sbook/note/forms.py",
+		"/C/Sbook/note/main.py",
+		"/C/sublime_text/Data/Packages/FileIcons/preferences/file_type_angular.tmPreferences",
+		"/C/Users/CHEF SEC/Documents/Welcome to Sbook.html",
+		"/C/Sbook/del.py",
+		"/C/Sbook/sbook/templates/captcha.django",
+		"/C/sublime_text/Data/Packages/FileIcons/preferences/file_type_django.tmPreferences",
+		"/C/sublime_text/Data/Packages/FileIcons/preferences/file_type_arduino.tmPreferences",
+		"/C/Sbook/kawlo.py",
+		"/C/sublime_text/Data/Packages/subliminal/subliminal.py",
+		"/C/sublime_text/Data/Packages/SublimeBookmarks/Default.sublime-keymap",
+		"/C/sublime_text/Data/Packages/User/Default.sublime-keymap",
+		"/C/Sbook/Sbook.sublime-project",
+		"/C/sublime_text/Data/Packages/subliminal/py_complete.py",
+		"/C/sublime_text/Data/Packages/User/Django.sublime-build",
+		"/C/sublime_text/Data/Packages/User/django-output.sublime-syntax",
+		"/C/Users/Lenovo 11e/test.html",
+		"/C/Users/Lenovo 11e/Desktop/Sbook/Sbook.sublime-project",
+		"/C/Users/Lenovo 11e/Desktop/Sbook/sbook/settings.py",
+		"/C/Users/Lenovo 11e/Desktop/Sbook/note/views.py",
+		"/C/Users/Lenovo 11e/Desktop/Sbook/note/accounts.py",
+		"/C/Users/Lenovo 11e/Desktop/Sbook/sbook/accounts.py",
+		"/C/Users/Lenovo 11e/Desktop/Sbook/note/models.py",
+		"/C/Users/Lenovo 11e/Desktop/Sbook/note/templates/note-main.django",
+		"/C/Users/Lenovo 11e/Desktop/Sbook/sbook/templates/main.django",
+		"/C/Users/Lenovo 11e/Desktop/Sbook/random_profile_image.py",
+		"/C/Sbook/sbook/templates/del.csv",
+		"/C/sublime_text/Data/Packages/User/py_complete.py",
+		"/C/Sbook/random_profile_image.py",
+		"/C/del/del/del/settings.py",
+		"/C/Sbook/manage.py",
+		"/C/python-3.12.3-embed-win32/python312._pth",
+		"/C/Sbook/main.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3636,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1989,
+								1989
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Neon.sublime-color-scheme",
+							"rainbow_checked": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1060.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/easy_pygame.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4055,
+								4055
+							]
+						],
+						"settings":
+						{
+							"rainbow_checked": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2558.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 146.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 134.0
+	},
+	"output.Terminus 3":
+	{
+		"height": 151.0
+	},
+	"output.Terminus 4":
+	{
+		"height": 146.0
+	},
+	"output.Terminus 5":
+	{
+		"height": 126.0
+	},
+	"output.Terminus 6":
+	{
+		"height": 220.0
+	},
+	"output.diff_views":
+	{
+		"height": 527.0
+	},
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jumpist.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\pyoload\\pyoload.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
