@@ -128,9 +128,11 @@ def loop(app):
     
     keys=pygame.key.get_pressed()
     if keys[K_LEFT]:
-        joyi.vec.vx -= 1
+        joyi.rect.left -= 30
     if keys[K_RIGHT]:
-        joyi.vec.vx += 1
+        joyi.rect.left += 30
+    if keys[K_UP]:
+        pac.jump()
     cb = joyb.rect.center[0]
     ci = joyi.rect.center[0]
     cd = ci - cb
