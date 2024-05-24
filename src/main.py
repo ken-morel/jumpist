@@ -1,6 +1,11 @@
-
 import pygame
 from easy_pygame import *
+
+try:
+    import pyi_splash
+    pyi_splash.close()
+except ImportError:
+    pass
 speed = [2, 2]
 app = App()
 
